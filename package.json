@@ -1,0 +1,47 @@
+{
+  "name": "neon-storm-theme",
+  "displayName": "Neon Storm",
+  "description": "Ultra-vivid dark theme optimized for Angular and .NET development with neon-bright syntax highlighting",
+  "version": "0.0.1",
+  "publisher": "neon-storm",
+  "author": {
+    "name": "Bruno Cavalcante"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "angular",
+    "dotnet",
+    "csharp",
+    "typescript",
+    "neon",
+    "vivid",
+    "storm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-storm-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/neon-storm-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/neon-storm-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#16161E",
+    "theme": "dark"
+  }
+}

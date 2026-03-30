@@ -1,0 +1,25 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+node_modules/**
+*.vsix
+*.log
+.DS_Store
+desktop.ini
+Thumbs.db
+.editorconfig
+.eslintrc.json
+tsconfig.json
+webpack.config.js
+yarn.lock
+package-lock.json
+*.md
+!README.md
+!CHANGELOG.md
+# Include imagens folder for theme previews
+# imagens/** is included by default
+screenshots/**
+docs/**
+test/**
+.github/**
