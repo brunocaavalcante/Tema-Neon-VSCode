@@ -2,7 +2,8 @@
   "name": "neon-vscode-dark-storm",
   "displayName": "Neon VsCode Dark Storm",
   "description": "Ultra-vivid dark theme optimized for Angular and .NET development with neon-bright syntax highlighting",
-  "version": "0.0.4",
+  "icon": "icon.png",
+  "version": "0.0.5",
   "publisher": "NeonVsCodeDark",
   "author": {
     "name": "Bruno Cavalcante"
@@ -27,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neon Storm",
+        "label": "Neon VsCode Dark Storm",
         "uiTheme": "vs-dark",
         "path": "./themes/neon-storm-color-theme.json"
       }
@@ -38,7 +39,7 @@
     "url": "https://github.com/brunocaavalcante/Tema-Neon-VSCode"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/neon-storm-theme/issues"
+    "url": "https://github.com/brunocaavalcante/Tema-Neon-VSCode/issues"
   },
   "galleryBanner": {
     "color": "#16161E",
