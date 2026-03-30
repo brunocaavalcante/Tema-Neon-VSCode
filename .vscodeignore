@@ -18,7 +18,7 @@ package-lock.json
 !README.md
 !CHANGELOG.md
 # Include imagens folder for theme previews
-# imagens/** is included by default
+!imagens/**
 screenshots/**
 docs/**
 test/**
