@@ -4,7 +4,7 @@
 
 Neon Storm is a vibrant, high-contrast VS Code theme designed specifically for Angular and .NET developers who want maximum color saturation and eye-catching syntax highlighting. Features electric cyan accents and neon-bright syntax colors.
 
-![Neon Storm Theme - HTML Preview](https://raw.githubusercontent.com/brunocaavalcante/Tema-Neon-VSCode/main/imagens/image-html.png)
+![Neon Storm Theme - HTML Preview](https://github.com/yourusername/neon-storm-theme/raw/HEAD/imagens/image-html.png)
 
 ## ✨ Features
 
@@ -122,19 +122,19 @@ If you want to tweak colors, add this to your `settings.json`:
 ## 📸 Screenshots
 
 ### Angular TypeScript Component
-![TypeScript with Neon Storm](https://raw.githubusercontent.com/brunocaavalcante/Tema-Neon-VSCode/main/imagens/image-ts.png)
+![TypeScript with Neon Storm](https://github.com/yourusername/neon-storm-theme/raw/HEAD/imagens/image-ts.png)
 *TypeScript com highlighting de decorators, tipos e methods em cores neon vivas*
 
 ### C# Web API Controller
-![C# with Neon Storm](https://raw.githubusercontent.com/brunocaavalcante/Tema-Neon-VSCode/main/imagens/image-c.png)
+![C# with Neon Storm](https://github.com/yourusername/neon-storm-theme/raw/HEAD/imagens/image-c.png)
 *C# com attributes, keywords e types perfeitamente destacados*
 
 ### SCSS Styling
-![SCSS with Neon Storm](https://raw.githubusercontent.com/brunocaavalcante/Tema-Neon-VSCode/main/imagens/image-css.png)
+![SCSS with Neon Storm](https://github.com/yourusername/neon-storm-theme/raw/HEAD/imagens/image-css.png)
 *SCSS com selectors, properties e values em cores distintas*
 
 ### HTML Angular Template
-![HTML with Neon Storm](https://raw.githubusercontent.com/brunocaavalcante/Tema-Neon-VSCode/main/imagens/image-html.png)
+![HTML with Neon Storm](https://github.com/yourusername/neon-storm-theme/raw/HEAD/imagens/image-html.png)
 *HTML Angular com tags, attributes e diretivas claramente diferenciadas*
 
 ## 🐛 Issues & Feedback
