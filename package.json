@@ -3,7 +3,7 @@
   "displayName": "Neon Storm",
   "description": "Ultra-vivid dark theme optimized for Angular and .NET development with neon-bright syntax highlighting",
   "version": "0.0.1",
-  "publisher": "neon-storm",
+  "publisher": "NeonVsCodeDark",
   "author": {
     "name": "Bruno Cavalcante"
   },
